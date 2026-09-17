@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://socialcarepro.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://socialcarepro.com/contact</loc><priority>0.5</priority></url>
+  <url><loc>https://socialcarepro.com/terms</loc><priority>0.3</priority></url>
+  <url><loc>https://socialcarepro.com/privacy</loc><priority>0.3</priority></url>
+  <url><loc>https://socialcarepro.com/refunds</loc><priority>0.3</priority></url>
+  <url><loc>https://socialcarepro.com/cookies</loc><priority>0.3</priority></url>
+</urlset>
