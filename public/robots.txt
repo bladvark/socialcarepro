@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /api/
-Disallow: /thank-you
-
-Sitemap: https://socialcarepro.com/sitemap.xml
